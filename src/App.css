@@ -94,8 +94,10 @@ p {
   .grid {
     grid-template-columns: repeat(2, 1fr);
   }
+  
   .left,
   .right {
     width: 100%;
   }
 }
+

@@ -89,3 +89,9 @@
       height: 54vh;
     }
   }
+  @media (max-width: 430px) {
+    .hero .right_img img{
+          right: 4%;
+          width: 400px;
+    }
+  }
