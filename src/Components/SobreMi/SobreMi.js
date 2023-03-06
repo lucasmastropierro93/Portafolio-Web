@@ -7,10 +7,7 @@ const SobreMi = () => {
       <div className='heading'>
         <h4>Te cuento</h4>
         <h1>Sobre Mi</h1>
-      <p>Hola hoy en día estoy capacitandome en programacion porque realmente me apasiona, siempre busco ampliar conocimientos y habilidades para poder tener nuevas metas laborales para poder progresar.
-        Estoy en continuo aprendizaje con todo lo relacionado a la programacion, desarrollo, software, informatica y tecnologia.
-        Me considero una persona curiosa, responsable, con iniciativa, con capacidad para trabajar en equipo y con muchas ganas de seguir aprendiendo.
-        Soy amante de la navegacion en barco y me encanta jugar al futbol.
+      <p>Hola, soy un Developer de sitio webs mayormente enfocado en la parte de Front End que es lo que mas me apasiona, me encuentro en constante aprendizaje, en practica y actualizandome en las ultimas tecnologías. Me considero una persona curiosa, responsable, con iniciativa y capacidad para trabajar en equipo. Mi mayor meta es seguir aprendiendo y perfeccionarme. Soy amante de la navegación a vela y me encanta jugar al fútbol.
       </p>
       </div>
     </div>

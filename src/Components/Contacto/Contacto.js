@@ -17,7 +17,7 @@ const Contacto = () => {
                 <div className='details'>
                   <h1>Lucas Matias Mastropierro</h1>
                   <p>Developer</p>
-                  <p>Estoy disponible para el trabajo freelance. Conéctese conmigo a través de mis datos</p> <br />
+                  <p>Conéctese conmigo a través de mis datos</p> <br />
                   <p>Phone: +54 9 1135241089</p>
                   <p>Email: lucasmastro93@gmail.com</p> <br />
                   <span>FIND WITH ME</span>

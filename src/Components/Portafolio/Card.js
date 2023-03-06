@@ -51,9 +51,7 @@ const toggleModal = () => {
                         <button className='btn_shadow'>
                             like this <i className='far fa-thumbs-up'></i>
                         </button>
-                        <button className='btn_shadow'>
-                            view projetct <i className='fas fa-chevron-right'></i>
-                        </button>
+                        
                     </div>
                     <button className='close-modal btn_shadow' onClick={toggleModal}>
                         <i className='fas fa-times'></i>
