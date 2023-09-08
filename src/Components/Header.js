@@ -17,7 +17,7 @@ const [Mobile, setMobile] = useState(false)
 
 <div className='container d_flex'>
     <div className='logo'>
-        <img src={logo} alt=''/>
+        <img src={logo} alt='imagen mia'style={{marginTop: "-10px"}}/>
     </div>
 
     <div className='navlink'>

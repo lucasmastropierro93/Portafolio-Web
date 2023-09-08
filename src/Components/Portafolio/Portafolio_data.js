@@ -23,6 +23,14 @@ const Portafolio_data = [
       image: "./image/car-commerce-01.jpg",
       desc: "Proyecto de venta de autos usados en el cual es un prototipo que se baso en javascript y permite ciertas funciones"
     },
+    {
+      id: 4,
+      category: "E-commerce (FULL-STACK) donde el cliente crea categorias y productos",
+      totalLike: "800",
+      title: "E-commerce FRONT Y BACK-END",
+      image: "./image/ecommerce.jpg",
+      desc: "Proyecto FULLSTACK conectado a una base de datos en MONGODB donde el cliente con un usuario administrador puede crear, actualizar y borrar las categorias y los productos que el quiera. https://ecommerce-project99.netlify.app/"
+    }
   ]
   export default Portafolio_data
   

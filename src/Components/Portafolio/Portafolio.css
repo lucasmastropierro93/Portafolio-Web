@@ -144,3 +144,19 @@ body.active-modal {
   .modal-text button.close-modal i {
     margin: 0;
   }
+  @media (max-width: 800px){
+    .d_flex{
+      display: block;
+    }
+  }
+  @media (max-width:450px){
+    .d_flex {
+      display: block;
+    }
+    .modal-text h1 {
+      font-size: 19px;
+    }
+    .modal-text p {
+      font-size: 12px;
+    }
+  }

@@ -57,7 +57,31 @@ const data = [
         id: 10,
         image: "https://img.icons8.com/nolan/64/backend-development.png",
         title: "Programacion Backend",
-        desc: "EN CURSO",
+        desc: "es un los sistema corporativo que se utilizan para dirigir una web o empresa, tales como sistemas de gestión de pedidos, inventario y procesamiento de suministro. Este sistema recoge información de los usuarios u otros sistemas de tratamiento de datos en la compañía.",
       },
+      {
+        id: 11,
+        image: "https://img.icons8.com/color/48/mongodb.png",
+        title: "MongoDB",
+        desc: "MongoDB es una base de datos NoSQL orientada a documentos que apareció a mediados de la década de 2000. Se utiliza para almacenar volúmenes masivos de datos. A diferencia de una base de datos relacional SQL tradicional, MongoDB no se basa en tablas y columnas. Los datos se almacenan como colecciones y documentos.",
+      },
+      {
+      id: 12,
+      image: "https://img.icons8.com/office/40/express-js.png",
+      title: "Express Js",
+      desc: "es un entorno de trabajo para aplicaciones web para el programario Node.js, de código abierto y con licencia MIT. Se utiliza para desarrollar aplicaciones web y APIs"
+      },
+      {
+        id: 13,
+        image:"https://img.icons8.com/color/48/wordpress.png",
+        title: "Wordpress",
+        desc: "es un sistema de gestión de contenidos lanzado el 27 de mayo de 2003, enfocado a la creación de cualquier tipo de página web. Originalmente alcanzó una gran popularidad en la creación de blogs, para luego convertirse en una de las principales herramientas para la creación de páginas web comerciales"
+      },
+      {
+        id: 14,
+        image: "https://img.icons8.com/color/48/nextjs.png",
+        title: "NextJs",
+        desc: "es un marco web de desarrollo front-end de React de código abierto creado por Vercel que habilita funcionalidades como la representación del lado del servidor y la generación de sitios web estáticos para aplicaciones web basadas en React"
+      }
   ]
   export default data
